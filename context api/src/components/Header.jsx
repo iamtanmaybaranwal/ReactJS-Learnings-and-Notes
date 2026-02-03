@@ -8,7 +8,7 @@ const Header = () => {
 
   return (
     <div>
-      This is the Header section {uc}
+      This is the Header section....{uc}
     </div>
   )
 }
